@@ -3,3 +3,4 @@
 
 A simple React app that lets you play Tic Tac Toe in your browser.
 
+![](TicTacToeReact.gif)
